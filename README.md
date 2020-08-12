@@ -124,7 +124,7 @@ docker run -it hieunhu/azdopatgenerator -h
 
 hieunhu/azdopatgenerator:$(date +"%g%m.%d%H%M")
 
-## Acknowledgments
+## Acknowledgements
 
 This is an extension of PatGenerator tool of Microsoft AD tenant (https://aka.ms/vstspatgen). 
 This extension is built to support additional features:
